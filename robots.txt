@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amirhoseinasadi3930-source15.github.io/Ostad_asadii/sitemap.xml
